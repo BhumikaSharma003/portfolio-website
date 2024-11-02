@@ -24,7 +24,7 @@ export const dialogueData = {
   
   library: `I have a lot of programming books and some novels on my shelves. I often buy technical books with the best intentions but rarely finish them. Does anyone else have a collection like that?`,
   
-  exit: `If you want to exit JSLegendDev's portfolio, just close the tab.`,
+  exit: `If you want to exit portfolio, just close the tab.`,
 
 };
 
